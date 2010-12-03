@@ -1,0 +1,20 @@
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Console\bin\Debug\ManagedUserLookup.Console.exe
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Console\bin\Debug\ManagedUserLookup.Console.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Console\bin\Debug\ManagedUserLookup.Console.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Console\obj\x86\Debug\ManagedUserLookup.Console.Resources.resources
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Console\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Console\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Console\obj\x86\Debug\ManagedUserLookup.Console.exe
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Console\obj\x86\Debug\ManagedUserLookup.Console.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Console\obj\x86\Debug\ManagedUserLookup.Console.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Console\bin\Debug\ManagedUserLookup.Console.exe
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Console\bin\Debug\ManagedUserLookup.Console.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Console\bin\Debug\ManagedUserLookup.Console.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Console\obj\x86\Debug\ManagedUserLookup.Console.Resources.resources
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Console\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Console\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Console\obj\x86\Debug\ManagedUserLookup.Console.exe
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Console\obj\x86\Debug\ManagedUserLookup.Console.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Console\obj\x86\Debug\ManagedUserLookup.Console.pdb

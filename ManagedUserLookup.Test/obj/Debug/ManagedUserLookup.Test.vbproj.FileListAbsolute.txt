@@ -1,0 +1,62 @@
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\ManagedUserLookup.Test.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\ManagedUserLookup.Test.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\ManagedUserLookup.Test.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\ManagedUserLookup.Library.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\nunit.framework.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Rhino.Mocks.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\PGK.Extensions.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\ManagedUserLookup.Library.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\ManagedUserLookup.Library.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Rhino.Mocks.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\obj\Debug\ManagedUserLookup.Test.Resources.resources
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\obj\Debug\ManagedUserLookup.Test.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\obj\Debug\ManagedUserLookup.Test.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Test\obj\Debug\ManagedUserLookup.Test.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\ManagedUserLookup.Test.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\ManagedUserLookup.Test.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\ManagedUserLookup.Test.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\ManagedUserLookup.Library.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\nunit.framework.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Rhino.Mocks.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\PGK.Extensions.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\ManagedUserLookup.Library.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\ManagedUserLookup.Library.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Rhino.Mocks.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\obj\Debug\ManagedUserLookup.Test.Resources.resources
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\obj\Debug\ManagedUserLookup.Test.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\obj\Debug\ManagedUserLookup.Test.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Test\obj\Debug\ManagedUserLookup.Test.pdb

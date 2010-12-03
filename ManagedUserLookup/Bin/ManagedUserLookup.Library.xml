@@ -1,0 +1,148 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ManagedUserLookup.Library
+</name>
+</assembly>
+<members>
+<member name="M:ManagedUserLookup.Library.Extensions.ConsoleTraceListener.TraceData(System.Diagnostics.TraceEventCache,System.String,System.Diagnostics.TraceEventType,System.Int32,System.Object)">
+	<summary>
+ Writes trace information, a data object and event information to the listener specific output.
+ </summary>
+	<param name="eventCache">An  object that contains the current process ID, thread ID, and stack trace information.</param>
+	<param name="source">A name used to identify the output, typically the name of the application that generated the trace event.</param>
+	<param name="eventType">One of the  values specifying the type of event that has caused the trace.</param>
+	<param name="id">A numeric identifier for the event.</param>
+	<param name="data">The trace data to emit.</param>
+	<remarks></remarks>
+</member><member name="M:ManagedUserLookup.Library.Extensions.ConsoleTraceListener.Write(System.String)">
+	<summary>
+ When overridden in a derived class, writes the specified message to the listener you create in the derived class.
+ </summary>
+	<param name="message">A message to write.</param>
+	<remarks></remarks>
+</member><member name="M:ManagedUserLookup.Library.Extensions.ConsoleTraceListener.WriteLine(System.String)">
+	<summary>
+ When overridden in a derived class, writes a message to the listener you create in the derived class, followed by a line terminator.
+ </summary>
+	<param name="message">A message to write.</param>
+	<remarks></remarks>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ManagedUserLookup.Library.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.LogMessages.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.LogMessages.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.LogMessages.ExceptionFinished">
+	<summary>
+  Looks up a localized string similar to Finished {0} with exception:.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.LogMessages.Hyphen">
+	<summary>
+  Looks up a localized string similar to  - .
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.LogMessages.Invoking">
+	<summary>
+  Looks up a localized string similar to Invoking: .
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.LogMessages.ParametersNotValid">
+	<summary>
+  Looks up a localized string similar to Parameters Not Valid.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.LogMessages.SuccessfullyFinished">
+	<summary>
+  Looks up a localized string similar to Successfully finished:.
+</summary>
+</member><member name="T:ManagedUserLookup.Library.My.Resources.LogMessages">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.DatabaseUserName">
+	<summary>
+  Looks up a localized string similar to DatabaseUserName.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.Environment">
+	<summary>
+  Looks up a localized string similar to Environment.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.ExactMatch">
+	<summary>
+  Looks up a localized string similar to ExactMatch.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.FirstName">
+	<summary>
+  Looks up a localized string similar to FirstName.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.Id">
+	<summary>
+  Looks up a localized string similar to Id.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.LastName">
+	<summary>
+  Looks up a localized string similar to LastName.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.matchedRoles">
+	<summary>
+  Looks up a localized string similar to matchedRoles.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.Name">
+	<summary>
+  Looks up a localized string similar to Name.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.Role">
+	<summary>
+  Looks up a localized string similar to Role.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.RoleList">
+	<summary>
+  Looks up a localized string similar to RoleList.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.Scope">
+	<summary>
+  Looks up a localized string similar to Scope.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.USEC">
+	<summary>
+  Looks up a localized string similar to USEC.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.UserId">
+	<summary>
+  Looks up a localized string similar to UserId.
+</summary>
+</member><member name="P:ManagedUserLookup.Library.My.Resources.Properties.UserIdType">
+	<summary>
+  Looks up a localized string similar to UserIdType.
+</summary>
+</member><member name="T:ManagedUserLookup.Library.My.Resources.Properties">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

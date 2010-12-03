@@ -1,0 +1,74 @@
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\ManagedUserLookup.Library.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\ManagedUserLookup.Library.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\ManagedUserLookup.Library.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\PGK.Extensions.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\obj\Debug\ManagedUserLookup.Library.Resources.resources
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\obj\Debug\ManagedUserLookup.Library.LogMessages.resources
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\obj\Debug\ManagedUserLookup.Library.Properties.resources
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\obj\Debug\ManagedUserLookup.Library.dll
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\obj\Debug\ManagedUserLookup.Library.xml
+C:\Users\amaurer\documents\visual studio 2010\Projects\ManagedUserLookup.Library\ManagedUserLookup.Library\obj\Debug\ManagedUserLookup.Library.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\ManagedUserLookup.Library.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\ManagedUserLookup.Library.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\ManagedUserLookup.Library.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\PGK.Extensions.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\obj\Debug\ManagedUserLookup.Library.Resources.resources
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\obj\Debug\ManagedUserLookup.Library.LogMessages.resources
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\obj\Debug\ManagedUserLookup.Library.Properties.resources
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\obj\Debug\ManagedUserLookup.Library.dll
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\obj\Debug\ManagedUserLookup.Library.xml
+C:\Users\amaurer\Desktop\unityplayground\ManagedUserLookup.Library\obj\Debug\ManagedUserLookup.Library.pdb
