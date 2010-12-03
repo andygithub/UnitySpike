@@ -19,3 +19,5 @@ ManagedUserLookup.Library.Extensions.ListConversion – There are extension method
 ManageUserLookup.Test.UnityMethodInjectionFixture shows how unity would can use method injection to resolve all of a classes dependencies.  This method requires that the method have this attribute <InjectionMethod()>.  Decorating the method is not really ideal for a controller but that seems to be the cleanest way for Unity. The virtual public property would need to be decorated with an attribute as well <Dependency()>.    I’m ignoring constructor injection.
 	http://msdn.microsoft.com/en-us/library/ff649447.aspx
 	http://msdn.microsoft.com/en-us/library/ff649751.aspx 
+
+
